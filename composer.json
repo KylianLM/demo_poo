@@ -1,0 +1,13 @@
+{
+    "name": "kylian_lm/demo_web",
+    "authors": [
+        {
+            "name": "Kylian LE METTE",
+            "email": "kylian.le.mette@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{"App\\":"app/"}
+    }
+}
